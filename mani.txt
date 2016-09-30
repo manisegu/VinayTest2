@@ -1,0 +1,14 @@
+Hi vinay this is manikanta segu.
+
+welcome to git and github world
+
+Now i am going to explain you the usage of git and github.
+
+For that purpose you need to create account in github first of all.
+
+I am trying to change somemore
+
+And then we can proceed further.
+
+Thanks,
+Kumar.
