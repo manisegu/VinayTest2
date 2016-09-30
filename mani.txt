@@ -6,7 +6,7 @@ Now i am going to explain you the usage of git and github.
 
 For that purpose you need to create account in github first of all.
 
-I am trying to change somemore
+I am trying to change somemore now it is added to repository.
 
 And then we can proceed further.
 
